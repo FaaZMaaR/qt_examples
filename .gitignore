@@ -1,0 +1,11 @@
+build/
+bin/
+*.png
+*.jpg
+.vscode/
+svg*
+*.odf
+*.pdf
+*.gif
+.txt
+!CMakeLists.txt
